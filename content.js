@@ -44,7 +44,7 @@ window.PORTFOLIO = {
                 "• Communicating directly with component manufacturers to evaluate brake calipers, review operating pressures, and verify component safety factors to guarantee structural reliability under maximum allowable loads"
                 
             ],
-             images:["assets/images/brakes/rotor.PNG", "assets/images/brakes/rotor.PNG", 
+             images:["assets/images/brakes/rotor.png", "assets/images/brakes/rotor.png", 
                 "assets/images/brakes/graph.png", "assets/images/brakes/liverotor.png"]},
                 
         {
